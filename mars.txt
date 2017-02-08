@@ -21,6 +21,11 @@ Daniel2
 =======
 =======
 
+<<<<<<< HEAD
+class is almost over!
+I AM HUNGRYYYYY 
+=======
 class is almost over! 
 >>>>>>> ivan
 >>>>>>> 874945d026478a3ad9a12dd85dcaac6a71673a15
+>>>>>>> master
