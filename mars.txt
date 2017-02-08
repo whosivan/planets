@@ -2,9 +2,30 @@
 and I have watched at least 3 times.
 more lines added here.
 
+<<<<<<< HEAD
+
+
+Daniel
+=======
 change change change
 
 lalala
+<<<<<<< HEAD
+>>>>>>> d38795c1f99cea2ac09e54c97916ed43838ccc7f
+<<<<<<< HEAD
 
+
+
+
+Daniel2
+=======
+=======
+
+<<<<<<< HEAD
 class is almost over!
 I AM HUNGRYYYYY 
+=======
+class is almost over! 
+>>>>>>> ivan
+>>>>>>> 874945d026478a3ad9a12dd85dcaac6a71673a15
+>>>>>>> master
