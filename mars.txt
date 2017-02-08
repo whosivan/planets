@@ -2,6 +2,12 @@ The Martian starring Matt Daemon
 and I have watched at least 3 times.
 more lines added here.
 
+<<<<<<< HEAD
 
 
 Daniel
+=======
+change change change
+
+lalala
+>>>>>>> d38795c1f99cea2ac09e54c97916ed43838ccc7f
